@@ -1,6 +1,6 @@
 # Team Roles
 - *Project Leads*: form the Technical Steering Committee of the Kokkos Project.
-- *Repository Maintainers*: are administrators of Kokkos subproject repositories
+- *Maintainers*: are administrators of Kokkos subproject repositories
 - *Team Members*: Regular contributors to Kokkos subprojects
 - *Collaborators*: Irregular contributors to Kokkos subprojects
 
@@ -10,7 +10,7 @@
 
 - Determine project wide rules
 - Decide on subproject inclusion
-- Assign *Repository Maintainer* roles
+- Assign *Maintainer* roles
 
 ### Current Roster
 
