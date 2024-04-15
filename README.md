@@ -10,6 +10,6 @@ The Kokkos Project is part of the nonprofit [Linux Foundation](https://linuxfoun
 # Kokkos Governance and Legal Documents
 
 * [Technical Charter](Kokkos-Technical-Charter-2024-04-11.pdf)
-* [Team Roles & Leadership](Governance.md)
+* [Team Roles & Leadership](GOVERNANCE.md)
 
 
