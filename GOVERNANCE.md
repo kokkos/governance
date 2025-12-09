@@ -27,6 +27,9 @@
 - Determine *Team Members* of their respecitve repository
 - Organize release process for their subproject
 
+### Current Teams
+- [Kokkos Kernels Core](https://github.com/orgs/kokkos/teams/kokkoskernelscore)
+
 # Team Members
 
 ### Role
@@ -34,3 +37,6 @@
 - Develop code
 - Review Pull Requests
 - Maintain documentation
+
+### Current Teams
+- [Kokkos Kernels](https://github.com/orgs/kokkos/teams/kokkoskernels)
