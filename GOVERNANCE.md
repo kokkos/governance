@@ -15,7 +15,6 @@
 ### Current Roster
 
 - Damien Lebrun-Grandie -- GitHub handle: [dalg24](https://github.com/dalg24)
-- Siva Rajamanickam -- GitHub handle: [srajama1](https://github.com/srajama1)
 - Christian R. Trott -- GitHub handle: [crtrott](https://github.com/crtrott)
 - Luc Berger-Vergiat -- GitHub handle: [lucbv](https://github.com/lucbv)
 
