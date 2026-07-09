@@ -37,26 +37,25 @@ The sub-projects in Kokkos are:
 
 * Fulfills all criteria of the Experimental seed stage
 * Has at least one production application that plans to rely on this project
-* Plans to grow to the Mature level and then Sustainable at some point
+* Plans to grow to the Maturing level and then Sustainable at some point
 
 
-### Mature
+### Maturing
 
-* Fulfills all criteria of the Young 
-* sprout stage & is actively maintained
+* Fulfills all criteria of the Young Sprout stage & is actively maintained
 * Has setup processes to welcome external developers as described in HPSF established life-cycle stage
 * Has defined releases and tries to follow Kokkos synchronized release scheme
 * Has made a commitment on API stability, similar to what’s required for 1.0 semver
 * Has set up some CI
 	- For dependencies from the Kokkos ecosystem, both releases & latest dev. branch are tested
 	- Has a maintained publicly accessible documentation
-* Required dependencies should be Mature+ or good argument should be provided to show that the subset used is at that maturity level
+* Required dependencies should be Maturing+ or good argument should be provided to show that the subset used is at that maturity level
 * Favors dependencies from the Kokkos ecosystem
 * Leverages Kokkos infra for communication (slack, website, etc.)
 
-### Sustainable
+### Sustained
 
-* Fulfills all criteria of the Mature stage
+* Fulfills all criteria of the Maturing stage
 * Implements Kokkos synchronized release scheme
 * Is used in production by applications from at least 2 distinct Kokkos stakeholders
 * Required dependencies are all Sustainable or good argument should be provided to show that the subset used is at that maturity level
