@@ -11,8 +11,8 @@ This document defines and describes the various life-cycle stages in Kokkos.
 The Kokkos life-cycle stages are the following:
 * Experimental seed
 * Young sprout
-* Mature
-* Sustainable
+* Maturing
+* Sustained
 * Retired
 
 The life-cycle stage is assigned by the Kokkos project leads after discussion by the sub-project leads.
@@ -20,8 +20,21 @@ The life-cycle stage is assigned by the Kokkos project leads after discussion by
 ## Kokkos sub-projects
 
 The sub-projects in Kokkos are:
-* 
-* 
+
+| Subproject | Lifecycle | Category |
+| --- | --- | --- |
+| Core | Sustained | Base |
+| Kernels | Sustained | Base |
+| Tools | Maturing | Base |
+| Tutorials | Maturing | Outreach |
+| kokkos.org | Maturing | Outreach |
+| mdspan | Maturing | Base |
+| FFT | Maturing | Auxiliary |
+| Comm | Young Sprout | Auxiliary |
+| pyKokkos | Young Sprout | Auxiliary |
+| Fortran-Interop | Young Sprout | Auxiliary |
+| Resilience | Young Sprout | Auxiliary |
+| stdBLAS | Young Sprout | Auxiliary |
 
 ## Kokkos Life-cycle
 
@@ -76,8 +89,8 @@ Projects will be classified in one of these categories by their maintainer, afte
 	- Programming model
 	- Base math
 	- Tooling for this level
-* Kokkos domain-specific libraries & tools
-* Kokkos application-specific libraries & tools
+* Kokkos auxiliary libraries & tools
+* Kokkos outreach and training efforts
 
 ## Kokkos common design guidelines
 
